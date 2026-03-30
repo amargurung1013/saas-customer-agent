@@ -29,3 +29,7 @@ Customer Query → Language Detection → Intent Classification → Specialist H
 ```bash
 git clone https://github.com/yourusername/saas-support-agent.git
 cd saas-support-agent
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-green.svg)](https://github.com/langchain-ai/langgraph)
